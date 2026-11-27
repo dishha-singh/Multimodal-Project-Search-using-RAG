@@ -1,3 +1,4 @@
+
 # Multi-Modal Product Search (CLIP + Qdrant + RAG)
 
 Search a fashion catalog with **text, a photo, or both**. Product images are embedded with CLIP,
@@ -69,3 +70,6 @@ Modes 1, 3 and 4 need article type and colour to match; mode 2 needs article typ
 ## Authors
 
 Add your names here.
+
+# Multimodal-Project-Search-using-RAG
+e9ae0ae41833890ad8f9a98f6b3d9b2d019fa6bc
