@@ -1,0 +1,11 @@
+sentence-transformers
+qdrant-client
+streamlit
+pandas
+numpy
+pillow
+requests
+fastapi
+uvicorn
+python-multipart
+google-genai
