@@ -72,4 +72,3 @@ Modes 1, 3 and 4 need article type and colour to match; mode 2 needs article typ
 Add your names here.
 
 # Multimodal-Project-Search-using-RAG
-e9ae0ae41833890ad8f9a98f6b3d9b2d019fa6bc
